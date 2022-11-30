@@ -14,7 +14,8 @@
     "morgan": "~1.9.1",
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.20",
-    "sequelize": "^6.25.8"
+    "sequelize": "^6.25.8",
+    "vm2": "^3.9.12"
   },
   "devDependencies": {
     "sequelize-cli": "^6.5.2"
